@@ -29,7 +29,7 @@ else
     # Google Chrome
     wget -c https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
     # VS Code
-    wget -c https://go.microsoft.com/fwlink/?LinkID=760868
+    wget -c https://code.visualstudio.com/docs/?dv=linux64_deb
     # TeamViewer
     wget -c https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
 
