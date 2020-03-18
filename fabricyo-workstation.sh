@@ -43,6 +43,7 @@ else
     apt install vym -y
     apt install qbittorrent -y
     apt install htop -y
+    apt install gettext -y
     
     # Pacotes de programas forenses
     # apt install forensics-extra
